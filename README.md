@@ -18,4 +18,4 @@
 ## Tech Stack
 - JavaScript
 
-![Art]([https://images.unsplash.com/photo-1578301979108-0c9147d2d0b3?auto=format&fit=crop&w=1200&q=80](https://images.unsplash.com/photo-1778468241711-b6795c3712f0?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D))
+![Art]([https://images.unsplash.com/photo-1578301979108-0c9147d2d0b3?auto=format&fit=crop&w=1200&q=80](https://images.unsplash.com/photo-1778468241711-b6795c3712f0?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
